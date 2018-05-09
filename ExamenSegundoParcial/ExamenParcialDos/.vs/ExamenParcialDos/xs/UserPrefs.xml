@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E678187F-BCA3-42CD-AE59-73A770D65F5F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExamenParcialDos/Controllers/TableViewController.cs">
+    <Files>
+      <File FileName="ExamenParcialDos/Controllers/TableViewController.cs" Line="58" Column="8" />
+      <File FileName="ExamenParcialDos/Model/Linq2TwitterControlador.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExamenParcialDos PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.66C4B399-D5C6-42E2-8C81-20788CA79736">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ExamenParcialDos>
+</Properties>
