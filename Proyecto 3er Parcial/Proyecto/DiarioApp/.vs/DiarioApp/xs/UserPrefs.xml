@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{6F46852B-4D88-4CA4-8818-3A98906088EE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiarioApp/Entitlements.plist">
+    <Files>
+      <File FileName="DiarioApp/Controllers/TableController.cs" Line="88" Column="80" />
+      <File FileName="DiarioApp/Controllers/ModificarDiaController.cs" Line="23" Column="33" />
+      <File FileName="DiarioApp/Models/PickerModel.cs" Line="1" Column="1" />
+      <File FileName="DiarioApp/Models/Dia.cs" Line="8" Column="1" />
+      <File FileName="DiarioApp/Info.plist" />
+      <File FileName="DiarioApp/Entitlements.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fernandovazquez/Universidad/Sexto Semestre/Taller de desarrollo móvil para plataforma IOS/2ndo Parcial/ExamenParcial/ApiTwitter/ApiTwitter/controllers/ViewController.cs" line="112" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DiarioApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E89906B2-560B-4DFE-84F6-FD5EF3AA9FBD" automaticSigning="False" />
+</Properties>

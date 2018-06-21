@@ -1,0 +1,11 @@
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhone/Debug/DiarioApp.exe
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhone/Debug/DiarioApp.pdb
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhone/Debug/device-builds/iphone8.1-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhone/Debug/device-builds/iphone8.1-11.3/actool/_PartialAppManifest.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhone/Debug/device-builds/iphone8.1-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhone/Debug/device-builds/iphone8.1-11.3/coremlc/_PartialAppManifest.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhone/Debug/device-builds/iphone8.1-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhone/Debug/device-builds/iphone8.1-11.3/optimized/
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhone/Debug/DiarioApp.csproj.CoreCompileInputs.cache
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhone/Debug/DiarioApp.exe
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhone/Debug/DiarioApp.pdb

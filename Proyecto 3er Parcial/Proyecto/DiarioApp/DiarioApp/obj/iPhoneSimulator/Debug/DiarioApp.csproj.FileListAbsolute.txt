@@ -1,0 +1,36 @@
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhoneSimulator/Debug/DiarioApp.exe
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhoneSimulator/Debug/DiarioApp.pdb
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/DiarioApp.csproj.CoreCompileInputs.cache
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/DiarioApp.exe
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/DiarioApp.pdb
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/joseflores/Documents/Escuela/6to Semestre/iOS/3 Parcial/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/DiarioApp.csprojResolveAssemblyReference.cache
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhoneSimulator/Debug/DiarioApp.exe
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhoneSimulator/Debug/DiarioApp.pdb
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhoneSimulator/Debug/Firebase.Analytics.dll
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhoneSimulator/Debug/Firebase.Auth.dll
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhoneSimulator/Debug/Firebase.Core.dll
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhoneSimulator/Debug/Firebase.Database.dll
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhoneSimulator/Debug/Firebase.InstanceID.dll
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/bin/iPhoneSimulator/Debug/Google.SignIn.dll
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/GoogleService-Info.plist
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.Core.dll.stamp
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.InstanceID.dll.stamp
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.Analytics.dll.stamp
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.Auth.dll.stamp
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/XbdMerge/Google.SignIn.dll.stamp
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.Database.dll.stamp
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/DiarioApp.csproj.CoreCompileInputs.cache
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/DiarioApp.exe
+/Users/fernandovazquez/Desktop/ProyectoFinal/DiarioApp/DiarioApp/obj/iPhoneSimulator/Debug/DiarioApp.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>IconLauncher20x20</string>
+				<string>IconLauncher29x29</string>
+				<string>IconLauncher40x40</string>
+				<string>IconLauncher60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>IconLauncher</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
